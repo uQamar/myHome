@@ -1,0 +1,1 @@
+VBoxSDL --startvm Windows --separate
